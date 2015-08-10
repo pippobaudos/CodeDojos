@@ -14,7 +14,10 @@ There is no need to be able to convert numbers larger than about 3000. (The Roma
 
 Part I
 ===================
-The Kata says you should write a function to convert from normal numbers to Roman Numerals: eg
+**User Story**
+	As a user
+	Given a decimal number
+	I want to convert it to the Roman numerals
 
 <pre>
 *     1 --> I
@@ -25,8 +28,11 @@ The Kata says you should write a function to convert from normal numbers to Roma
 
 Part II
 ===================
-Write a function to convert in the other direction, ie numeral to digit 
-
+**User Story**	
+	As a user
+	Given a Roman numeral
+	I want to convert it to the decimal form
+	
 <pre>
 * III -> 3
 * XXXII -> 32
@@ -41,6 +47,12 @@ You are the imperial accontant of Cesare, the glorious emperatour. And you have 
 The cost is 2 Sestertius for each square foot of land, the imperial unit of area.
 As accountance of the emperator you have to parse a textual file with the following format:
 	
+**User Story**
+	As the imperial accountant
+	Given the "List of Lands"
+	I want to produce the "List of Taxes" to be paid to Cesare
+	
+		
 **Input Received**
 <pre>
 	## LIST OF LANDS ##
@@ -72,22 +84,4 @@ As accountance of the emperator you have to parse a textual file with the follow
 	Pino Saluto: 
 	- habet reddere CMIV Sestertius
 </pre>
-	
-User Stories
-===================
 
-User Story 1	
-	As a user
-	Given a roman number
-	I want to convert it to the decimal form
-	
-	
-User Story 2	
-	As a user
-	Given a decimal number
-	I want to convert it to the roman form
-
-User Story 3	
-	As the imperial accountant
-	Given the "List of Lands"
-	I want to produce the "List of Taxes" to be paid to Cesare
