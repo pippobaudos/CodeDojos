@@ -12,7 +12,7 @@ There is no need to be able to convert numbers larger than about 3000. (The Roma
 
 *Note that you can't write numerals like "IM" for 999. Wikipedia says: Modern Roman numerals ... are written by expressing each digit separately starting with the left most digit and skipping any digit with a value of zero. To see this in practice, consider the ... example of 1990. In Roman numerals 1990 is rendered: 1000=M, 900=CM, 90=XC; resulting in MCMXC. 2008 is written as 2000=MM, 8=VIII; or MMVIII.*
 
-Part I
+Part I: Decimal to Roman number
 ===================
 As a user
 	Given a decimal number
@@ -29,7 +29,7 @@ As a user
 * 4851 -> MMMMDCCCLI
 </pre>
 
-Part II
+Part II: Roman to Decimal number
 ===================
 As a user
 	Given a Roman numeral
@@ -47,16 +47,16 @@ As a user
 </pre>
 
 
-Part III
+Part III: Taxes to Cesare
 ===================
-You are the imperial accontant of Cesare, the glorious emperatour. And you have to count the taxes that each farmer has to paid to Cesare. 
-The cost is 2 Sestertius for each square foot of land, the imperial unit of area.
-As accountance of the emperator you have to parse a textual file with the following format:
-	
 As the imperial accountant
 	Given the "List of Lands"
 	I want to produce the "List of Taxes" to be paid to Cesare
-	
+
+
+You are the imperial accontant of Cesare, the glorious emperatour. And you have to count the taxes that each farmer has to paid to Cesare. 
+The cost is 2 Sestertius for each square foot of land, the imperial unit of area.
+As accountance of the emperator you have to parse a textual file with the following format:
 		
 **Input Received:**
 <pre>
