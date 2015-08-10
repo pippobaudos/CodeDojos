@@ -22,7 +22,11 @@ As a user
 * 1 --> I
 * 10 --> X
 * 7 --> VII
+* 24 -> XXIV
+* 81 -> LXXXI
+* 682 -> DCLXXXII
 * 3146 -> MMMCXLVI
+* 4851 -> MMMMDCCCLI
 </pre>
 
 Part II
@@ -33,9 +37,13 @@ As a user
 	
 <pre>
 * III -> 3
+* XXIV -> 24
 * XXXII -> 32
+* LXXXI -> 81
 * CXXIII -> 123
+* DCLXXXII -> 682
 * MMMCCCXXXIII -> 3333
+* MMMMDCCCLII -> 4852
 </pre>
 
 
