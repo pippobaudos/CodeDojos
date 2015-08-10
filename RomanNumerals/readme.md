@@ -52,7 +52,7 @@ As the imperial accountant
 		
 **Input Received:**
 <pre>
-	## LIST OF LANDS OF THE EMPIRE ##
+	###### LIST OF EMPIRE'S LANDS ######
 	
 	>> Agostino Piedone
 	IV x III ft
@@ -70,7 +70,7 @@ As the imperial accountant
 	
 **Output to produce:**
 <pre>
-	## LIST OF TAXES TO THE EMPERATOR ##
+	###### LIST OF TAXES TO THE EMPERATOR ######
 
 	Agostino Piedone:
 	- habet reddere CLXXIV Sestertius
