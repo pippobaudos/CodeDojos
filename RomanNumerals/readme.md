@@ -1,4 +1,4 @@
-Learn the Romans Number for the Glory of Rome!!
+Learn the Romans Number for the Glory of Rome
 ======================================
 
 The Romans were a clever bunch. They conquered most of Europe and ruled it for hundreds of years. They invented concrete and straight roads and even bikinis. 
