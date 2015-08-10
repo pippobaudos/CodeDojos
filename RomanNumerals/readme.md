@@ -14,8 +14,7 @@ There is no need to be able to convert numbers larger than about 3000. (The Roma
 
 Part I
 ===================
-**User Story**
-	As a user
+As a user
 	Given a decimal number
 	I want to convert it to the Roman numerals
 
@@ -28,8 +27,7 @@ Part I
 
 Part II
 ===================
-**User Story**	
-	As a user
+As a user
 	Given a Roman numeral
 	I want to convert it to the decimal form
 	
@@ -47,8 +45,7 @@ You are the imperial accontant of Cesare, the glorious emperatour. And you have 
 The cost is 2 Sestertius for each square foot of land, the imperial unit of area.
 As accountance of the emperator you have to parse a textual file with the following format:
 	
-**User Story**
-	As the imperial accountant
+As the imperial accountant
 	Given the "List of Lands"
 	I want to produce the "List of Taxes" to be paid to Cesare
 	
