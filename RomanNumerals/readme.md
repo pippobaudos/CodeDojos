@@ -50,9 +50,9 @@ As the imperial accountant
 	I want to produce the "List of Taxes" to be paid to Cesare
 	
 		
-**Input Received**
+**Input Received:**
 <pre>
-	## LIST OF LANDS ##
+	## LIST OF LANDS OF THE EMPIRE ##
 	
 	>> Agostino Piedone
 	IV x III ft
@@ -68,9 +68,9 @@ As the imperial accountant
 	V x VII ft
 </pre>
 	
-**Output to produce**
+**Output to produce:**
 <pre>
-	## LIST OF TAXES ##
+	## LIST OF TAXES TO THE EMPERATOR ##
 
 	Agostino Piedone:
 	- habet reddere CLXXIV Sestertius
