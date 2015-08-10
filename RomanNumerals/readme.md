@@ -16,21 +16,24 @@ Part I
 ===================
 The Kata says you should write a function to convert from normal numbers to Roman Numerals: eg
 
+<pre>
 *     1 --> I
 *     10 --> X
 *     7 --> VII
 *     3146 -> MMMCXLVI
-
-etc.
+</pre>
 
 Part II
 ===================
 Write a function to convert in the other direction, ie numeral to digit 
 
+<pre>
 * III -> 3
 * XXXII -> 32
 * CXXIII -> 123
 * MMMCCCXXXIII -> 3333
+</pre>
+
 
 Part III
 ===================
