@@ -19,10 +19,10 @@ As a user
 	I want to convert it to the Roman numerals
 
 <pre>
-*     1 --> I
-*     10 --> X
-*     7 --> VII
-*     3146 -> MMMCXLVI
+* 1 --> I
+* 10 --> X
+* 7 --> VII
+* 3146 -> MMMCXLVI
 </pre>
 
 Part II
